@@ -1,5 +1,5 @@
-const GITHUB_AUTH_TOKEN = "null"
-const BOT_NUMBER = "null"
+const GITHUB_AUTH_TOKEN = "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"
+const BOT_NUMBER = "923414365244"
 const SESSION_ID = ""
 
 
